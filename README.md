@@ -5,6 +5,9 @@
 
 - 📫 How to reach me **yogaadipranata10@gmail.com**
 
+#student-gpa-counter
+This project was one of the tasks during my time in college. In this project, I am required to use the C++ programming language and apply the material that has been taught before. In this project, I made a student GPA counter.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yogaadipranata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogaadipranata" height="30" width="40" /></a>
